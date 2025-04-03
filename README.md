@@ -33,7 +33,7 @@ CyberBot is a console-based chatbot designed to enhance cybersecurity awareness 
 - **Bot:** Use a strong mix of characters.
 
 ## Educational Value
-This project is ideal for students and educators to learn about basic cybersecurity concepts. It can also be a great assignment submission for institutions like Rosebank College Pretoria, as it covers relevant topics and demonstrates practical programming skills.
+This project is ideal for students and educators to learn about basic cybersecurity concepts. It covers relevant topics and demonstrates practical programming skills.
 
 ## Future Enhancements
 - Add support for more cybersecurity topics.
